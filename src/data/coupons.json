@@ -1,82 +1,122 @@
 [
   {
     "id": 1,
-    "title": "花王妙而舒纸尿裤",
+    "title": "花王妙而舒纸尿裤L54片",
     "price": "84.9",
     "detail": "拍1发2包，到手价84.9，单片低至0.7元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=123456789",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=4567890123&pdd_bws_commodity_id=123456789",
     "category": "纸尿裤",
     "originalPrice": "169.8",
     "savings": "84.9"
   },
   {
     "id": 2,
-    "title": "美赞臣蓝臻奶粉",
+    "title": "美赞臣蓝臻奶粉3段900g",
     "price": "298",
     "detail": "买2送1，到手3罐，单罐仅99元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=987654321",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=9876543210&pdd_bws_commodity_id=987654321",
     "category": "奶粉",
     "originalPrice": "447",
     "savings": "149"
   },
   {
     "id": 3,
-    "title": "亨氏婴儿米粉",
+    "title": "亨氏婴儿米粉1段225g",
     "price": "39.9",
     "detail": "买3送2，5盒到手价39.9，单盒仅8元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=456789123",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=4567891230&pdd_bws_commodity_id=456789123",
     "category": "辅食",
     "originalPrice": "99.5",
     "savings": "59.6"
   },
   {
     "id": 4,
-    "title": "贝亲奶瓶套装",
+    "title": "贝亲奶瓶套装160ml+240ml",
     "price": "89",
     "detail": "买1送1，2个奶瓶+奶嘴，到手价89元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=789123456",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=7891234560&pdd_bws_commodity_id=789123456",
     "category": "奶瓶",
     "originalPrice": "178",
     "savings": "89"
   },
   {
     "id": 5,
-    "title": "好奇铂金装纸尿裤",
+    "title": "好奇铂金装纸尿裤M64片",
     "price": "99.9",
     "detail": "拍1发3包，到手价99.9，单片低至0.6元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=321654987",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=3216549870&pdd_bws_commodity_id=321654987",
     "category": "纸尿裤",
     "originalPrice": "299.7",
     "savings": "199.8"
   },
   {
     "id": 6,
-    "title": "爱他美卓萃奶粉",
+    "title": "爱他美卓萃奶粉2段800g",
     "price": "368",
     "detail": "买2送1，到手3罐，单罐仅123元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=147258369",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=1472583690&pdd_bws_commodity_id=147258369",
     "category": "奶粉",
     "originalPrice": "552",
     "savings": "184"
   },
   {
     "id": 7,
-    "title": "嘉宝婴儿果泥",
+    "title": "嘉宝婴儿果泥6袋装",
     "price": "29.9",
     "detail": "买4送3，7袋到手价29.9，单袋仅4.3元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=963852741",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=9638527410&pdd_bws_commodity_id=963852741",
     "category": "辅食",
     "originalPrice": "69.3",
     "savings": "39.4"
   },
   {
     "id": 8,
-    "title": "NUK宽口奶瓶",
+    "title": "NUK宽口奶瓶套装240ml",
     "price": "69",
     "detail": "买1送1，2个奶瓶+奶嘴，到手价69元",
-    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=852963741",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=8529637410&pdd_bws_commodity_id=852963741",
     "category": "奶瓶",
     "originalPrice": "138",
     "savings": "69"
+  },
+  {
+    "id": 9,
+    "title": "帮宝适一级帮纸尿裤L52片",
+    "price": "79.9",
+    "detail": "拍1发2包，到手价79.9，单片低至0.8元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=7418529630&pdd_bws_commodity_id=741852963",
+    "category": "纸尿裤",
+    "originalPrice": "159.8",
+    "savings": "79.9"
+  },
+  {
+    "id": 10,
+    "title": "飞鹤星飞帆奶粉1段700g",
+    "price": "268",
+    "detail": "买2送1，到手3罐，单罐仅89元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=3692581470&pdd_bws_commodity_id=369258147",
+    "category": "奶粉",
+    "originalPrice": "402",
+    "savings": "134"
+  },
+  {
+    "id": 11,
+    "title": "小皮婴儿米粉2段200g",
+    "price": "45.9",
+    "detail": "买2送1，3盒到手价45.9，单盒仅15.3元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=2583691470&pdd_bws_commodity_id=258369147",
+    "category": "辅食",
+    "originalPrice": "68.7",
+    "savings": "22.8"
+  },
+  {
+    "id": 12,
+    "title": "可么多么奶瓶套装150ml+250ml",
+    "price": "99",
+    "detail": "买1送1，2个奶瓶+奶嘴，到手价99元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=1473692580&pdd_bws_commodity_id=147369258",
+    "category": "奶瓶",
+    "originalPrice": "198",
+    "savings": "99"
   }
 ] 
