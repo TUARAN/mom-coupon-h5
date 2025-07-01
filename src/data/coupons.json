@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "花王妙而舒纸尿裤",
+    "price": "84.9",
+    "detail": "拍1发2包，到手价84.9，单片低至0.7元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=123456789",
+    "category": "纸尿裤",
+    "originalPrice": "169.8",
+    "savings": "84.9"
+  },
+  {
+    "id": 2,
+    "title": "美赞臣蓝臻奶粉",
+    "price": "298",
+    "detail": "买2送1，到手3罐，单罐仅99元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=987654321",
+    "category": "奶粉",
+    "originalPrice": "447",
+    "savings": "149"
+  },
+  {
+    "id": 3,
+    "title": "亨氏婴儿米粉",
+    "price": "39.9",
+    "detail": "买3送2，5盒到手价39.9，单盒仅8元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=456789123",
+    "category": "辅食",
+    "originalPrice": "99.5",
+    "savings": "59.6"
+  },
+  {
+    "id": 4,
+    "title": "贝亲奶瓶套装",
+    "price": "89",
+    "detail": "买1送1，2个奶瓶+奶嘴，到手价89元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=789123456",
+    "category": "奶瓶",
+    "originalPrice": "178",
+    "savings": "89"
+  },
+  {
+    "id": 5,
+    "title": "好奇铂金装纸尿裤",
+    "price": "99.9",
+    "detail": "拍1发3包，到手价99.9，单片低至0.6元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=321654987",
+    "category": "纸尿裤",
+    "originalPrice": "299.7",
+    "savings": "199.8"
+  },
+  {
+    "id": 6,
+    "title": "爱他美卓萃奶粉",
+    "price": "368",
+    "detail": "买2送1，到手3罐，单罐仅123元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=147258369",
+    "category": "奶粉",
+    "originalPrice": "552",
+    "savings": "184"
+  },
+  {
+    "id": 7,
+    "title": "嘉宝婴儿果泥",
+    "price": "29.9",
+    "detail": "买4送3，7袋到手价29.9，单袋仅4.3元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=963852741",
+    "category": "辅食",
+    "originalPrice": "69.3",
+    "savings": "39.4"
+  },
+  {
+    "id": 8,
+    "title": "NUK宽口奶瓶",
+    "price": "69",
+    "detail": "买1送1，2个奶瓶+奶嘴，到手价69元",
+    "link": "https://mobile.yangkeduo.com/goods.html?goods_id=852963741",
+    "category": "奶瓶",
+    "originalPrice": "138",
+    "savings": "69"
+  }
+] 
